@@ -1,6 +1,7 @@
 require 'rubygems'
 require 'mongo'
 
+source 'https://rubygems.org'
 source 'http://gemcutter.org'
 
 ruby '1.9.2'
