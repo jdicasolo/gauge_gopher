@@ -1,5 +1,5 @@
-require 'rubygems'
-require 'mongo'
+#require 'rubygems'
+#require 'mongo'
 
 source 'https://rubygems.org'
 source 'http://gemcutter.org'
