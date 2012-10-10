@@ -1,6 +1,13 @@
 <% provide(:title, 'Home') %>
 
-<h1>Gauge Gopher | <%= yield(:title) %></h1>
-<p>you have landed</p>    
+<div class="center hero-unit">
+  <h1>gunga galunga</h1>
+  <h2>welcome to the gauge gopher | <%= yield(:title) %></h2>
+
+  <%= link_to "sign up", signup_path, class: "btn btn-large btn-primary" %>
+</div>
+
+<%= link_to image_tag("rails.png", alt: "rails"), 'http://rubyonrails.org/' %>
+
 
 
