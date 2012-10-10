@@ -9,6 +9,7 @@ ruby '1.9.2'
 gem 'rails', '3.2.8'
 gem 'mongo_mapper'
 gem 'bootstrap-sass', '2.0.4'
+gem 'bson_ext'
 
 
 # Gems used only for assets and not required
